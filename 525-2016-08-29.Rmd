@@ -1,0 +1,220 @@
+---
+title: "525-2016-08-29-vision"
+author: "rogilmore"
+date: "`r Sys.time()`"
+bibliography: bib/psy-525.bib
+output:
+  ioslides_presentation:
+    css: css/gilmore.css
+    self_contained: true
+    widescreen: true
+    transition: default
+---
+
+## PSY 525 Cognitive Proseminar
+
+- Vision
+
+## Goals
+
+- Why vision science matters to other areas of cognition
+- Some questions I've pursued in vision science
+
+## My trajectory
+
+- B.A., Cognitive Science, Brown
+- 7 years in D.C. working as non-profit staffer, lobbyist
+- M.S. & Ph.D. in Cognitive Neuroscience, Carnegie Mellon
+- 19+ years at PSU
+
+## Seminal events {.flexbox .vcenter}
+
+<div class="centered">
+<img src="https://images-na.ssl-images-amazon.com/images/I/31QrGNV7XCL._SX258_BO1,204,203,200_.jpg" height=500px>
+</div>
+
+## Seminal events {.flexbox .vcenter}
+
+<div class="centered">
+<img src="http://www.psych.wright.edu/~kbennett/assets/images/Gibson.jpg" height=500px>
+</div>
+
+## Palmer's claims
+
+1. Perception is knowledge acquisition
+2. Knowledge is about objects and events
+3. Knowledge is extracted by information processing
+4. Information comes from reflected, refracted, or emitted light.
+
+## Things to worry about
+
+- Or general problems that vision science keeps front and center
+
+## Homunculus problem
+
+<div class="centered">
+<a href="https://en.wikipedia.org/wiki/Homunculus_argument">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Infinite_regress_of_homunculus.png" width=800px>
+</a>
+</div>
+
+## [Marr's three levels](http://www.albany.edu/~ron/papers/marrlevl.html)
+
+- Computations
+- Algorithms
+- Implementations
+
+----
+
+<div class="centered">
+<a href="http://www.nature.com/nrn/journal/v15/n8/box/nrn3747_BX2.html">
+<img src="http://www.nature.com/nrn/journal/v15/n8/images/nrn3747-i2.jpg" width=900px>
+</a>
+
+[[@grill-spector_functional_2014]](http://doi.org/10.1038/nrn3747)
+</div>
+
+## What is information processing, anyway? {.flexbox .vcenter}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Information_processing_system_%28english%29.PNG">
+</div>
+
+----
+
+<div class="centered">
+<img src="img/palmer-1999-hierarchical-decomp.jpg" height=500px>
+</div>
+
+## What is a representation of property X?
+
+<div class="centered">
+<img src="img/palmer-1999-representation-types.jpg" height=500px>
+</div>
+
+## Modeling the unseen environment
+
+<div class="centered">
+<img src="http://1.bp.blogspot.com/-zbl8jqkg9hI/UPke9-U6WfI/AAAAAAAAAas/fmY43tNF6Is/s1600/200px-Kanizsa_triangle.svg.png" height=450px>
+</div>
+
+----
+
+<div class="centered">
+<img src="http://www.socsci.uci.edu/~ddhoff/subjnecker.gif" height=450px>
+</div>
+
+<div class="notes">
+Necker cube example.
+</div>
+
+----
+
+<div class="centered">
+<img src="http://vrf.wpengine.netdna-cdn.com/wp-content/uploads/2014/03/impossible-objects-02.jpg" height=450px>
+</div>
+
+<div class="notes">
+An impossible object.
+</div>
+
+----
+
+<div class="centered">
+<a href="https://en.wikipedia.org/wiki/M._C._Escher">
+<img src="https://upload.wikimedia.org/wikipedia/en/e/e8/Escher_Waterfall.jpg" height=500px>
+</a>
+</div>
+
+<div class="notes">
+Classic image from M.C. Escher.
+</div>
+
+## Bottom-up vs. top-down
+
+<div class="centered">
+<img src="http://cyberunions.org/wp-content/uploads/2011/06/bottom-up.jpg" height=450px>
+</div>
+
+<div class="notes">
+Funny cartoon showing the difference between bottom-up and top-down processing.
+</div>
+
+## What must (sighted) animals do?
+
+- Find food
+- Find mates
+- Avoid predators
+
+## How does vision help them do these things?
+
+- What is it?
+- Where is it located or moving?
+- How should I respond?
+
+## Classical theories of vision
+
+- "Why do things look as they do?" (Koffka, 1935)
+- *Structuralism*: "The (world/visual nervous system) is that way."
+- *Empiricism vs. nativism*: "We (learn to/were born to) see them that way."
+    
+## Classical theories of vision
+
+- *Atomism vs. holism*: "Because of the way (each small piece/the whole visual field) appears."
+- *Introspection vs. behavior*: "How things *look* matters (more/less) than what we *do* with the information."
+    
+## Theoretical approaches and their champions
+
+- Gestaltism, Wertheimer
+- Ecological optics, Gibson
+- Constructivism, Helmholtz
+
+----
+
+<div class="centered">
+<img src="https://yusylvia.files.wordpress.com/2010/03/gestalt_illustration-01.jpg" width=900px>
+</div>
+
+----
+
+<div class="centered">
+<img src="http://www.csus.edu/indiv/w/wickelgren/psyc103/opticarray.jpg" width=900px>
+</div>
+
+----
+
+<div class="centered">
+<img src="https://www.edge.org/images/gig.jpg" width=900px>
+</div>
+
+## Four stages of visual perception
+
+- Image-based
+- Surface-based
+- Object-based
+- Category-based
+
+----
+
+<div class="centered">
+<img src="img/palmer-1999-visual-info-processing.jpg" height=500px>
+</div>
+
+## Hierarchical + parallel processing
+
+<div class="centered">
+<img src="https://mechanism.ucsd.edu/gall/wh-wh-cs.jpg" height=450px>
+</div>
+
+## Case studies
+
+- Jayaraman, S., Gilmore, R.O., & Raudies (2016, May). Changes in early optic flow experiences across development and culture. Presentation at the XXth International Congress on Infant Studies. New Orleans, LA. [Talk](https://rawgit.com/gilmore-lab/ICIS-2016-New-Orleans/master/jayaraman-gilmore-raudies-ICIS-2016.html#1)
+- Gilmore, R.O., Thomas, A.L., & Fesi, J.D (2016). Children's brain responses to optic flow vary by pattern type and motion speed. PLoS ONE. [doi](http://doi.org/10.1371/journal.pone.0157911). Materials on Databrary at http://doi.org/10.17910/B7QG6W.
+
+## Take homes
+
+- Vision science principles, ideas, theories deeply embedded in other areas of cognitive psychology.
+
+## References
+
+
