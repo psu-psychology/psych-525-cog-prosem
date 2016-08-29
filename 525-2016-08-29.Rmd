@@ -19,7 +19,7 @@ output:
 
 - Why vision science matters to other areas of cognition
 - Some questions I've pursued in vision science
-- [Your questions](student-questions.md)
+- [Your questions](https://github.com/psu-psychology/psych-525-cog-prosem/blob/master/student-questions.md)
 
 ## My trajectory
 
